@@ -87,6 +87,11 @@ header h2 {
     background: #69B9F1;
 }
 
+.link-container.post {
+    background: #16a085;
+}
+
+
 .link-container img {
     margin-right: 20px;
 }
